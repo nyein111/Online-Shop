@@ -1,4 +1,4 @@
-# React Native Shopping Mobile App
+# React Native Online Shop App
 
 A Online Shop app built in React Native with Redux, DummyJSON API, React Navigation and TailwindCSS.
 
